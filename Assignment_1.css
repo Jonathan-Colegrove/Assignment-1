@@ -1,0 +1,44 @@
+body {
+  background-image: url("St_Peters.jpg");
+  background-size: cover;
+  cursor: crosshair;
+  display: inline-block;
+}
+
+.notes .text {
+  position: relative;
+}
+
+#image img {
+  height: 370px;
+  width: 370px;
+  padding: 0;
+  float: left;
+}
+
+.columns {
+  column-count: 2;
+}
+
+p {
+  color: green;
+  font-family: 'Bad Script', cursive;
+}
+
+h2 h3 {
+  font-family: Georgia;
+}
+
+h2 {
+  text-decoration: underline;
+  padding: 0px;
+  margin: 0px;
+}
+
+h3 {
+  font-style: italic;
+}
+
+li {
+  color: white;
+}
